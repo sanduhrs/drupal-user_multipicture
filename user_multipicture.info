@@ -1,0 +1,3 @@
+name = User multipicture
+description = Support for multiple profile pictures per user.
+core = 6.x
